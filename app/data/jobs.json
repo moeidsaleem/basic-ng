@@ -1,0 +1,60 @@
+{
+  "jobs": [
+    {
+	"jobTitle": "AngularJS developer",
+    "company": "20000",
+   "location": "Saddar, rizwan Arcade ",
+    "city": "20000",
+     "jobimgLink": "content/img/jobs/angularjs.png",
+    "country": "content/img/jobs/flag/pk.jpg",
+    "category": "web development",
+	"jobType":"remote",
+	"careerLevel":"+1 year experience",
+	"salary": "15k+",
+	"applyBefore":"08-12-15",
+	"skills":"business,project,management,startup"
+}, 
+ {
+  "jobTitle": "Nodejs Developer",
+    "company": "20000",
+   "location": "Saddar, rizwan Arcade ",
+    "city": "20000",
+    "jobimgLink": "content/img/jobs/angularjs.png",
+    "country": "content/img/flag/nodejs.png",
+    "category": "web development",
+  "jobType":"remote",
+  "careerLevel":"+1 year experience",
+     "salary": "15k+",
+  "applyBefore":"08-12-15",
+  "skills":"business,project,management,startup"
+}, 
+ {
+  "jobTitle": "Unity 3D developer",
+    "company": "Atrix digital Solutions.",
+   "location": "rizwan Arcade,Saddar,  ",
+    "city": "Rawalpindi",
+    "jobimgLink": "content/img/jobs/angularjs.png",
+    "country": "content/img/flag/nodejs.png",
+    "category": "web development",
+  "jobType":"remote",
+  "careerLevel":"+1 year experience",
+     "salary": "15k+",
+  "applyBefore":"08-12-15",
+  "skills":"business,project,management,startup"
+}, 
+ {
+  "jobTitle": "Nodejs Developer",
+    "company": "20000",
+   "location": "Saddar, rizwan Arcade ",
+    "city": "20000",
+    "jobimgLink": "content/img/jobs/angularjs.png",
+    "country": "content/img/flag/nodejs.png",
+    "category": "web development",
+  "jobType":"remote",
+  "careerLevel":"+1 year experience",
+     "salary": "15k+",
+  "applyBefore":"08-12-15",
+  "skills":"business,project,management,startup"
+} 
+  ]
+}
